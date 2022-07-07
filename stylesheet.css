@@ -1,5 +1,8 @@
-
+body {
+  font-family: fantasy;
+}
 .header {
   background-color: #f7f2b4;
   height: 80px;
+  float:left;
 }
