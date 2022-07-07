@@ -4,6 +4,8 @@ body {
 .header {
   background-color: #f7f2b4;
   height: 75px;
+}
+h3 {
   float:left;
 }
 img {
